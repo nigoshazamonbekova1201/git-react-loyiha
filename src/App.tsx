@@ -1,16 +1,13 @@
 
-import './App.css'
+
 
 function App() {
 
-
   return (
     <>
-      <h2>Salom</h2>
-    <p></p>
-    
-  
-    
+     <input type="text" placeholder="ism kiriting" />
+     <button>kiritish</button>
+
     </>
   )
 }
