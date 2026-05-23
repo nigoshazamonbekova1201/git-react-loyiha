@@ -1,3 +1,4 @@
+import Navbar from "./components/Navbar"
 
 
 
@@ -5,10 +6,8 @@ function App() {
 
   return (
     <>
-     <input type="text" placeholder="ism kiriting" />
-     <button>kiritish</button>
-     <input type="text" />
-
+   
+    <Navbar/>
     </>
   )
 }
