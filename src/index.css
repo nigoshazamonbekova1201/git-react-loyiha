@@ -2,5 +2,13 @@ nav{
   display: flex;
   align-items: center;
   justify-content: space-between;
+  padding: 10px 25px;
 }
 
+nav ul{
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  justify-content: space-between;
+  list-style: none;
+}
