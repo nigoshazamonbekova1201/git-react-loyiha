@@ -8,6 +8,7 @@ function Navbar() {
     <li>Biz haqimizda</li>
     <li>Kontakt</li>
     <li>Aloqa</li>
+    <li>about us</li>
 </ul>
     </nav>
   )
